@@ -1,4 +1,68 @@
+# Electrum - Skip to content
+Navigation Menu
+
+Code
+Editing README.md in electrum
+You’re making changes in a project you don’t have write access to. Submitting a change will write it to a new branch in your fork bgk884/electrum, so you can send a pull request.
+Breadcrumbselectrum
+/
+README.md
+in
+master
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+Soft wrap
+Editing README.md file contents
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
 # Electrum - Lightweight Bitcoin client
+
+```
+Licence: MIT Licence
+Author: Thomas Voegtlin
+Language: Python (>= 3.8)
+Homepage: https://electrum.org/
+```
+
+[![Build Status](https://api.cirrus-ci.com/github/spesmilo/electrum.svg?branch=master)](https://cirrus-ci.com/github/spesmilo/electrum)
+[![Test coverage statistics](https://coveralls.io/repos/github/spesmilo/electrum/badge.svg?branch=master)](https://coveralls.io/github/spesmilo/electrum?branch=master)
+[![Help translate Electrum online](https://d322cqt584bo4o.cloudfront.net/electrum/localized.svg)](https://crowdin.com/project/electrum)
+
+
+## Getting started
+
+_(If you've come here looking to simply run Electrum,
+[you may download it here](https://electrum.org/#download).)_
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+Lightweight Bitcoin client
 
 ```
 Licence: MIT Licence
